@@ -1,4 +1,4 @@
-# python-calculator-with-Kivy-
+# python-calculator-with-Kivy from https://realpython.com/mobile-app-kivy-python/#creating-a-kivy-application
 
 # Packaging Your App for Android
 
