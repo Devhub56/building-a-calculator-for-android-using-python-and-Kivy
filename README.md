@@ -10,7 +10,7 @@ $ buildozer init
 
 This will create a buildozer.spec file that you’ll use to configure your build 
 
-Once you are satisfiewd with your spe file above , proceed to run;
+Once you are satisfiewd with your buildozer spec file above , proceed to run;
 
 $ buildozer -v android debug
 
