@@ -14,4 +14,4 @@ Once you are satisfiewd with your buildozer spec file above , proceed to run;
 
 $ buildozer -v android debug
 
-Buildozer will download whatever Android SDK pieces it needs during the build process. If everything goes according to plan, then you’ll have a file named something like kvcalc-0.1-debug.apk in your bin folder.
+Buildozer will download whatever Android SDK pieces it needs during the build process. If everything goes according to plan, then you’ll have a file named something like appname-versionnumber-debug.apk in your bin folder.
